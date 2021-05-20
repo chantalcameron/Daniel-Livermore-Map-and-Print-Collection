@@ -14,12 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+A collection of maps from the 17th, 18th and 19th centuries that mainly focus on Ontario and parts of Eastern Canada. The collection of maps was donated by Dan Livermore, Brock graduate with a BA in history and politics. He has worked as Canada’s ambassador to Guatemala and El Salvador and later became Canada’s Director General of Security and Intelligence. Currently, he works at the University of Ottawa in the Graduate School of Public and International Affairs. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
