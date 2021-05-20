@@ -10,7 +10,7 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://chantalcameron.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /Daniel_Livermore_Map_and_Print_Collection
+baseurl: /Daniel-Livermore-Map-and-Print-Collection
 # location of code, the full url to your github repository
 source-code: https://github.com/chantalcameron/Daniel-Livermore-Map-and-Print-Collection
 
